@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="edit_text_hint_user">Ingrese su nombre</string>
+    <string name="edit_text_hint_pass">Ingrese su password</string>
+    <string name="text_btn_sing_in">Sign In</string>
+    <string name="text_btn_sing_up">Sign Up</string>
+    <string name="text_btn_sing_out">Salir</string>
+</resources>
